@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    color: #000000;
+    background-color: #884923;
+}
+html {
+    background-color: #542A0A;
+}
+body nav {
+    border-image: none;
+    border-style: solid;
+    border-color: #44F400;
+}
+body a img {
+
+}
